@@ -1,0 +1,10 @@
+Hola amigo como estas
+otra linea jajaja
+bien tu como Andas
+otra linea de nuevo jajajajajajaa ahora voya agregar varias lineas, sin sobreescribir la informacion del archivo
+jajajaa ahora voy a agregar varias lineas, sin sobreescribir la informacion del archivo
+Linea 1 agregada
+Linea 2 agregada
+Linea 3 agregada
+Linea 4 agregada
+Linea 5 agregada

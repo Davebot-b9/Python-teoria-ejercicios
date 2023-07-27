@@ -1,0 +1,2 @@
+import Paquetes.saludar #accedo a la carpeta Paquetes y de ahi al modulo saludar
+print(Paquetes.saludar.Saludar("David")) #imprimo llamando a la carpeta, de ahi al modulo y despues llamo al metodo Saludar e ingreso el parametro

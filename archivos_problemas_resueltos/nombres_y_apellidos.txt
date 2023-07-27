@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Oscar
+Apellido: Morelos
+---------
+Nombre: Maria
+Apellido: Parra
+---------
+Nombre: Angelica
+Apellido: Linares
+---------
+Nombre: Mario
+Apellido: Puente
+---------
+Nombre: Roberto
+Apellido: Lopez
+---------
