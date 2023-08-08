@@ -1,4 +1,3 @@
-
 #Lista es un tipo de dato compuesto, parecido a una matriz, una lista puede ser modificable
 #         indice 0     indice 1     indice 2 ...
 lista = ["Oscar Dav", "Itzana studios", True, 1999, 1.60]
@@ -10,7 +9,7 @@ print(lista[1])
 tupla = ("Oscar Dav", "Itzana studios", True, 1999, 1.60)
 #print(tupla[3])
 
-#Conjunto (set), puede intercambiarse elementos de lugar pero no pueden alterarse, sin embargo si se puede redefinir un conjunto(set)
+#Conjunto (set), puede intercambiar elementos de lugar pero no puede alterarlos, sin embargo si se puede redefinir un conjunto(set)
 
 conjunto = {"Hola", "set", 234, 2.3}
 

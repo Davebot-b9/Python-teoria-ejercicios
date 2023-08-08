@@ -6,12 +6,12 @@ c = a + b
 print(c)
 
 # lo que se imprime sale 11, por que al declarar += significa que el primer valor al declarar y definir la variables numero es 10, indica que va a sumar el valor que ya tiene más 1.
-numero = 10;
-numero += 1;
+numero = 10
+numero += 1
 
-print(numero);
+print(numero)
 
-# Si quitamos la f y los corchetes al definir bienvenida, nos marcará un error por que es una cadena de texto, si intentamos concatenar igual marcará error
+# Si quitamos la f y los corchetes al definir bienvenida, nos marcará un error por que es una cadena de texto
 
 # f es para indicar un FString por lo que al estar dentro de corchetes indicara que es una variable y se esta integrando a la cadena de texto, toma un dato y lo convierte a texto.
 nombre = 5
